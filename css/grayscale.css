@@ -10,7 +10,7 @@
 }
 
 #mainNav .navbar-toggler {
-  font-size: 80%;
+  font-size: 100%;
   padding: 0.75rem;
   color: #232A34;
   border: 1px solid #232A34;
@@ -90,7 +90,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: #5D8AB9; 
+  background: white; 
   /* background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/whale1.png"); */
   background-position: center;
   background-repeat: no-repeat;
@@ -140,7 +140,7 @@
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   font-family: 'Roboto';
-  font-size: 80%;
+  font-size: 100%;
   text-transform: uppercase;
   letter-spacing: .15rem;
   border: 0;
@@ -151,11 +151,11 @@
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #828383;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #828383;
   color: white;
 }
 
